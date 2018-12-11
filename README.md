@@ -1,2 +1,7 @@
 # learnpy
-Basics of python - core
+
+## Fundamentals of python
+## Programming with python
+## Django
+## Celery
+## aiohttp
